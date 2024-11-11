@@ -9,5 +9,5 @@ def compute_word_frequency(text):
 
     # Sort the word count by key (word) alphanumerically
     sorted_word_count = sorted(word_count.items())
-    print(sorted_word_count)
+    #print(sorted_word_count)
     return sorted_word_count
